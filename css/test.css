@@ -1,0 +1,25 @@
+body{
+background-color: lavender;
+}
+h1 {
+	font-size: 30px;
+	color: indigo;
+}
+h2 {
+	font-size: 20px;
+	color: purple;
+}
+.big {
+	font-size: 40px;
+	color: orange;
+}
+
+.uppercase {
+	text-transform: uppercase;
+}
+.uppercase.big {
+	color: navy;
+}
+h1 span{
+	color: deeppink;
+}
